@@ -1,0 +1,383 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Pencil_red_01 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  1.0 0.0 0.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_red_01 done 
+#
+# Multi/Sub Pencil_red_02 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.7 0.0 0.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_red_02 done 
+#
+# Multi/Sub Pencil_red_03 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.0 0.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_red_03 done 
+#
+# Multi/Sub Pencil_orange_01 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  1.0 0.3 0.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_orange_01 done 
+#
+# Multi/Sub Pencil_orange_02 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  1.0 0.6 0.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_orange_02 done 
+#
+# Multi/Sub Pencil_yellow_01 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 0.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_yellow_01 done 
+#
+# Multi/Sub Pencil_green_01 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.4 1.0 0.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_green_01 done 
+#
+# Multi/Sub Pencil_green_02 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.5 0.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_green_02 done 
+#
+# Multi/Sub Pencil_blue_01 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 1.0 0.9
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_blue_01 done 
+#
+# Multi/Sub Pencil_blue_02 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.3 0.6 0.9
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_blue_02 done 
+#
+# Multi/Sub Pencil_blue_03 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.2 0.0 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_blue_03 done 
+#
+# Multi/Sub Pencil_violet_01 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.9 0.0 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_violet_01 done 
+#
+# Multi/Sub Pencil_violet_02 (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.4 0.0 0.5
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_violet_02 done 
+#
+# Multi/Sub Pencil_white (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.9 1.0 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_white done 
+#
+# Multi/Sub Pencil_gray (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.4 0.4 0.4
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_gray done 
+#
+# Multi/Sub Pen_yellow_100% (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  1.0 1.0 0.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pen_yellow_100% done 
+#
+# Multi/Sub Pencil_margenta (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  1.0 0.0 1.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_margenta done 
+#
+# Multi/Sub Pencil_cyan (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 1.0 0.9
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_cyan done 
+#
+# Multi/Sub Pencil_black (2) to come 
+#
+newmtl 01_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.0 0.0 0.0
+Ks  0.1 0.1 0.1
+d  1.0
+Ns  10.0
+illum 2
+#
+newmtl 02_-_Default
+Ka  0.0 0.0 0.0
+Kd  0.5 0.5 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+#
+# Multi/Sub Pencil_black done 
+#
+# EOF

@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Paper
+  - White
+  - Black
+  - Blue
+  - Cyan
+  - Green
+  - Pink
+  - Red
+  - Yellow
+  - Hand
+  - Cube1
+  - Cube2
+  - Cube3
+  - Cube4
+  - PositiveCube
+  - NegativeCube
+  - Toy
+  - Light
+  - Brick1
+  - Brick2
+  - Brick3
+  - Brick4
+  - Brick5
+  - Brick6
+  - Brick7
+  - Brick8
+  - Brick9
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
