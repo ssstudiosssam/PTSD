@@ -474,6 +474,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ContinueHolder
       objectReference: {fileID: 0}
+    - target: {fileID: 1633560569134775296, guid: 3e4187b33160646db96558a51ec3dc0d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1633560569134775311, guid: 3e4187b33160646db96558a51ec3dc0d, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -614,7 +618,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 7573923302216214810, guid: 946e6197fed434a2893a5801377be611, type: 3}
       propertyPath: thisSceneName
-      value: Sadness
+      value: Anger
       objectReference: {fileID: 0}
     - target: {fileID: 7573923302216214811, guid: 946e6197fed434a2893a5801377be611, type: 3}
       propertyPath: m_RootOrder
